@@ -62,8 +62,6 @@
 [![View LinkedIn Activity](https://img.shields.io/badge/linkedin-2A5CBD.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-kumar-6963661a4/recent-activity/al/l/)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hugs-4-Bugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 😂 Random Dev Meme
