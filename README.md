@@ -58,8 +58,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hugs-4-Bugs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🔝 Latest LinkedIn Activity
-[![View LinkedIn Activity](https://www.linkedin.com/feed/update/urn:li:activity:7231726001209188352/)
+
+
 
 
 
