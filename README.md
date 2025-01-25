@@ -24,13 +24,10 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashsish-tiwari/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Prabhat-Kumar-3443) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19520484/prabhat-kumar)  [![Naukari](https://img.shields.io/badge/naukari-%23ED4B00?style=for-the-badge&logo=naukari&logoColor=black)](https://www.naukri.com/mnjuser/profile?id=&altresid) [![Portfolio](https://img.shields.io/badge/portfolio-FCC624?style=for-the-badge&logo=portfolio&logoColor=black)](https://codify-aashu.github.io/AshishProfile/)   [![Microsoft](https://img.shields.io/badge/microsoft-AFB524?style=for-the-badge&logo=microsoft&logoColor=black)](https://learn.microsoft.com/en-us/users/me/achievements#badges-section) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashsish-tiwari/)   [![Naukari](https://img.shields.io/badge/naukari-%23ED4B00?style=for-the-badge&logo=naukari&logoColor=black)](https://www.naukri.com/mnjuser/profile?id=&altresid) [![Portfolio](https://img.shields.io/badge/portfolio-FCC624?style=for-the-badge&logo=portfolio&logoColor=black)](https://codify-aashu.github.io/AshishProfile/)   
 
 
 
-
-## 🌐Coding Profiles:
-<a href="https://www.hackerrank.com/Prabhat_7250?hr_r=1" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stymrj" height="50" width="60" style="max-width: 100%;">  <a href="https://leetcode.com/Hugs-2-Bugs/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stymrj" height="30" width="40" style="max-width: 100%;"> <a href="https://auth.geeksforgeeks.org/user/prabhatkueazc/practice" rel="nofollow"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20211005162802/longdesc2.png" alt="stymrj" height="40" width="40" style="max-width: 100%;">
 
 
 
